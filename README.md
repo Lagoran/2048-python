@@ -1,4 +1,4 @@
-2048-python
+2048-python  >> A bit forked
 ===========
 
 [![Run on Repl.it](https://repl.it/badge/github/yangshun/2048-python)](https://repl.it/github/yangshun/2048-python)
